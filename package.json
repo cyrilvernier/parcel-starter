@@ -1,0 +1,29 @@
+{
+  "name": "s6-parcel-starter",
+  "version": "1.0.0",
+  "description": "Parcel starter for s6@eikon",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "watch": "parcel watch src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cyrilvernier/parcel-starter.git"
+  },
+  "keywords": [],
+  "author": "eikon frontend development team",
+  "license": "ISC",
+  "homepage": "https://github.com/cyrilvernier/parcel-starter#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.1",
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.0.17",
+    "parcel": "^2.3.1",
+    "postcss": "^8.4.6",
+    "postcss-modules": "^4.3.0",
+    "posthtml-include": "^1.7.1",
+    "sass": "^1.42.1",
+    "tailwindcss": "^3.0.23"
+  }
+}
