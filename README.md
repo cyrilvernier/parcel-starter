@@ -7,7 +7,7 @@ Voir le repo original sur https://github.com/eikon-frontend/starterkit
 - Git installé et une clé SSH déclarée (ou l'app GitHub Desktop)
 - NPM installé
 
-### Régler les problèmes de droits de node.js
+### Régler les problèmes de droits de node.js
 
 ```
 mkdir ~/.npm-global
